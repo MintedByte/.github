@@ -2,7 +2,5 @@
 
 An end-to-end NFT generation platform.
 
-Members:
+Members:..
 Justin
-Jun Leong
-Qi Jie
